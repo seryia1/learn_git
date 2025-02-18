@@ -62,5 +62,23 @@
 
 ![Capture d'écran 2025-02-11 142113](https://github.com/user-attachments/assets/32379ca0-1c1c-48d8-9bd8-9cc82cedf69a)
 
+14-Ecrire la commande git status pour verifier l'etat de nos fichiers 
+
+![Capture d'écran 2025-02-18 094746](https://github.com/user-attachments/assets/15caa93b-b734-445e-b9e6-f08ddce84cf5)
+
+15-Ecrire la commande git remote add origin https://github.com/seryia1/learn_git1.git pour connecter mon depot local à mon repository github
+
+![Capture d'écran 2025-02-18 094806](https://github.com/user-attachments/assets/1285f64d-66e6-4c6a-bb53-f9d8c6fd8507)
+
+16-Ecrire la commande pour pousser le depot local sur github
+
+![Capture d'écran 2025-02-18 094842](https://github.com/user-attachments/assets/7e31a83a-47bf-44a9-a832-d5593a84666b)
+
+17-Ecrire la commande git log --oneline --graph --decorate --all Pour voir les derniers commits et s’assurer que tout est bien enregistré
+
+![Capture d'écran 2025-02-18 101026](https://github.com/user-attachments/assets/6ef20c70-9ab9-4fe4-9668-82622fb8164c)
+
+
+
 
 
